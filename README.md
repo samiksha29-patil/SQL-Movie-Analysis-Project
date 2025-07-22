@@ -76,6 +76,10 @@ This project analyzes movie data from the IMDB database using SQL to uncover ins
 
 ![IMDB Analysis 2](https://raw.githubusercontent.com/samiksha29-patil/SQL-Movie-Analysis-Project/main/imdb%202.jpeg)
 
+### 📉 Dashboard 3
+
+![IMDB Analysis 3](https://raw.githubusercontent.com/samiksha29-patil/SQL-Movie-Analysis-Project/main/imdb%203.jpeg)
+
 ---
 
 ## 📌 Key Highlights
