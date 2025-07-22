@@ -62,11 +62,9 @@ This project includes multiple SQL queries designed to explore and summarize dat
 
 This project analyzes movie data from the IMDB database using SQL to uncover insights such as top-rated movies, genre trends, and box office performance.
 
+### 📈 Dashboard 1
+
 ![IMDB Analysis](https://raw.githubusercontent.com/samiksha29-patil/SQL-Movie-Analysis-Project/main/imdb%201.jpeg)
-
-## 🎬 IMDB Movie Analysis Project
-
-This project analyzes movie data from the IMDB database using SQL to uncover insights such as top-rated movies, genre trends, and box office performance.
 
 ### 📈 Dashboard 2
 
@@ -75,6 +73,11 @@ This project analyzes movie data from the IMDB database using SQL to uncover ins
 ### 📉 Dashboard 3
 
 ![IMDB Analysis 3](https://raw.githubusercontent.com/samiksha29-patil/SQL-Movie-Analysis-Project/main/imdb%203.jpeg)
+
+### 📌 Dashboard 4
+
+![IMDB Analysis 4](https://raw.githubusercontent.com/samiksha29-patil/SQL-Movie-Analysis-Project/main/imdb%204.jpeg)
+
 
 ---
 
