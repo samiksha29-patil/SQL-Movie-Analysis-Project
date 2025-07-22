@@ -58,6 +58,13 @@ This project includes multiple SQL queries designed to explore and summarize dat
 - Movies with multiple directors
 - High-rated & highly voted popular movies
 
+## 🎬 IMDB Movie Analysis Project
+
+This project analyzes movie data from the IMDB database using SQL to uncover insights such as top-rated movies, genre trends, and box office performance.
+
+![IMDB Analysis](https://raw.githubusercontent.com/samiksha29-patil/SQL-Movie-Analysis-Project/main/imdb%201.jpeg)
+
+
 ---
 
 ## 📌 Key Highlights
