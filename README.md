@@ -134,7 +134,7 @@ This project analyzes movie data from the IMDB database using SQL to uncover ins
 
 ## 🧑‍💻 Author
 
-**[Your Name]**  
+Samiksha patil
 Passionate about data analytics, SQL, and exploring datasets through queries.
 
 ---
